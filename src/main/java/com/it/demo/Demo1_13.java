@@ -18,6 +18,6 @@ public class Demo1_13 {
         Thread.sleep(10000000L);
     }
 }
-class Student{
+class Student {
     private byte[] big = new byte[1024 * 1024];
 }
